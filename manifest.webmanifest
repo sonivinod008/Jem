@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "JEM Expense Manager",
+  "short_name": "JEM",
+  "description": "Portfolio demo - expenses, approvals, payments and reports (sample data).",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F3EC",
+  "theme_color": "#434B34",
+  "lang": "en-IN",
+  "categories": [
+    "business",
+    "finance"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
